@@ -1,0 +1,46 @@
+// -----------------------------------------------------------------------------
+// Contains very basic styles
+// -----------------------------------------------------------------------------
+
+/*colors*/
+
+//insert here
+
+/**
+* RESETS
+*/
+
+/**
+ * Set up a decent box model on the root element
+ */
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/*removing default list styles, margins and padding*/
+
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/*BASE*/
+
+
+body {
+    font-size: 1rem;
+}

@@ -1,0 +1,30 @@
+@charset 'UTF-8';
+
+//1. Configuration and helpers
+@import 'abstracts/variables.scss';
+@import 'abstracts/functions.scss';
+@import 'abstracts/mixins.scss';
+
+//2. Vendors
+//Most projects will have a vendors folder containing css files from libraries and frameworks.
+// @import
+// 'vendors/normalize';
+
+//3. Base Stuff
+@import 'base/base';
+@import 'base/fonts';
+@import 'base/typography.scss';
+
+//4. Layout-related sections
+
+@import 'layout/header.scss';
+@import 'layout/footer.scss';
+
+//5. Components
+@import 'components/buttons.scss';
+
+//6. Page specific styles
+@import 'pages/home.scss';
+
+//7. Themes
+// @import 'themes/default';
