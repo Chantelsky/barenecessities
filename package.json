@@ -1,10 +1,15 @@
 {
   "name": "@chantelsky/necessities",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Sass mixins",
   "license": "MIT",
   "keywords": [
-    "tiny", "npm", "sass", "mixins", "package", "chantelsky"
+    "tiny",
+    "npm",
+    "sass",
+    "mixins",
+    "package",
+    "chantelsky"
   ],
   "dependencies": {
     "sass": "^1.23.7"
