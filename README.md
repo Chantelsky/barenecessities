@@ -1,6 +1,5 @@
 # @Chantelsky/necessities
 ![npm](https://img.shields.io/npm/v/@chantelsky/necessities)
-![npm bundle size](https://img.shields.io/bundlephobia/min/@chantelsky/necessities)
 
 ## An open source collection of Sass mixins
 
